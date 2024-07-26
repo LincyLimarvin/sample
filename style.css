@@ -1,0 +1,152 @@
+
+.about_insector{
+   color: #fcdeb1;
+   padding-left: 50px;
+   display: flex;
+   
+}
+.about_insector1{
+   padding-left: 10px;
+   padding-right: 25px;
+   
+}
+.a3{
+   text-align: center;
+}
+.padding:hover{
+   border-radius: 5px;
+   padding-bottom: 10px;
+   width: 500px;
+   height : 250px;
+   
+}
+
+.bg{
+   background-color: #f2ca8f;
+}
+.a4{
+   color: #f2ca8f;
+   padding-left: 120px;
+}
+.about_sector{
+   background-color: black;
+    
+   
+}
+.about_sector3{
+   display: flex;
+   background-color: black;
+}
+.about_sector2{
+   display: flex;
+   background-color: black;
+}
+.about_sector1{
+   background-color: rgb(252, 203, 151);
+   
+   
+}
+.about_sector1_1{
+   background-color: rgb(252, 203, 151);
+   display: flex;
+   
+}
+.a2{
+   padding-right: 950px;
+}
+
+a{
+   font-size: large;
+   text-decoration: none;
+   color: #f2ca8f;
+   padding-left: 25px;
+   padding-top: 20px;
+   
+   
+}
+.p1{
+   font-size: x-large;
+   padding-top: 100px;
+}
+b:hover{
+   background-color:#31302d ;
+   color:#f2ca8f;
+
+}
+.name{
+   text-decoration:solid;
+   text-shadow: #c15d00;
+}
+.skill{
+   color: #f2ca8f;
+   margin-bottom: -130px;
+   
+}
+.type{
+   color: #f2ca8f;
+text-align: right;}
+.p2{
+ font-size: large;
+}
+h3{
+   border: #f4ceb5;
+   border-style: groove;
+   color: #31302d;
+   background-color:#f4ceb5;
+}
+h4{
+   border: #31302d;
+   border-style: double;
+   border-radius: 5px;
+   color: #f4ceb5;
+   background-color:#31302d;
+}
+.pad{
+   padding-left: 600px;
+   transform: translateY(-200px);
+   padding-bottom: 0px;
+  
+   
+}
+.s4{
+   background-color: #f2ca8f;
+
+}
+.aa{
+   text-align: right;
+}
+.ac{
+   text-align: right;
+   font-size: large;
+}
+.pad1{
+   padding-top: 70px;
+   padding-bottom: 30px;
+}
+.lasection{
+   background-color: black;
+   display: flex;
+   
+}
+.contact{
+   color: #f2ca8f;
+   padding-left: 100px;
+   
+}
+.c1{
+   color: #f2ca8f;
+   padding-left: 100px;
+   display: flex;
+   
+}
+.c2{
+   padding-right: 20px;
+   padding-left: 60px;
+   font-size: large;
+
+}
+.c3{
+   border-style:ridge;
+   border-color: #f2ca8f;
+   border-radius: 5px;
+}
